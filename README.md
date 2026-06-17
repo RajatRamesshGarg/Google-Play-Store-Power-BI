@@ -205,6 +205,6 @@ Overall Insights
 •	Higher installs generally correspond with stronger ratings, although exceptions exist. 
 •	Genres attracting millions of installs represent major market opportunities. 
 •	Frequent updates are associated with active maintenance and potentially better user experiences. 
-If you also have the assignment question sheet (PDF/Word/image) associated with this PBIX, upload it and I can provide exact question-by-question answers with calculations, DAX explanations, and business insights aligned to your assignment requirements.
+
 
 
