@@ -8,7 +8,7 @@ The dashboard helps answer business questions such as:
 - What factors influence app ratings?
 - How do installs, reviews, and prices affect app performance?
 - Which genres have the highest user engagement?
-- 
+  
 - ## Project Objectives
 
 - Analyze Google Play Store applications.
